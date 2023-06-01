@@ -1,0 +1,10 @@
+body {
+    background-color: #fcb4b7;
+}
+
+.button {
+    background-color: #ee8308;
+    padding: 5px 10px;
+    margin-right: 10px;
+    text-decoration: none; 
+}
